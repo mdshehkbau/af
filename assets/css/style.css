@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,500;1,600&family=Oswald:wght@400;600;700&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+} :root {
+    --color1: #5bc5f4;
+    --color2: #0872b9;
+}
+.welcom-part {
+    background: #0872b9;
+}
+.welcom-part a {
+    color: #fff;
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.welvome-icon li a {
+    font-size: 14px;
+    color: red;
+}
